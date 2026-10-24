@@ -574,7 +574,8 @@ This project demonstrates:
 - Machine learning pipelines
 
 ---
-
+## Live Demo
+[Click here to use the app](https://customer-churn-prediction-hu7ccwfijengqqecrr35gd.streamlit.app/)
 # 👩‍💻 Author
 
 **Jaweria Afzal**
